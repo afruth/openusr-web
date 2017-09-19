@@ -1,0 +1,13 @@
+{
+  "name": "OpenUSR",
+  "short_name": "OpenUSR",
+  "icons": [{
+      "src": "https://www.usr.ro/wp-content/uploads/2017/04/ico.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    }],
+  "start_url": "/index.html",
+  "display": "standalone",
+  "background_color": "#03B3EA",
+  "theme_color": "#03B3EA"
+}
