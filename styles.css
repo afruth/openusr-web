@@ -1,0 +1,12 @@
+body {
+  background-color: #03B3EA;
+}
+
+iframe {
+  min-height: 1vh;
+}
+
+footer {
+  color: white;
+  text-align: center;
+}
