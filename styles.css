@@ -3,7 +3,7 @@ body {
   font-family: -apple-system,system-ui,BlinkMacSystemFont,'Segoe UI',Roboto,Oxygen-Sans,Ubuntu,Cantarell,'Helvetica Neue',sans-serif,'Apple Color Emoji','Segoe UI Emoji','Segoe UI Symbol',sans-serif
 }
 
-iframe {
+.form-full {
   min-height: 1vh;
   position: absolute;
   height: 100%;
@@ -15,6 +15,9 @@ iframe {
   bottom: 0;
 }
 
+.form-small {
+  width: 100%;
+}
 footer {
   color: white;
   text-align: center;
